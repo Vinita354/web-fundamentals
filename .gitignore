@@ -1,6 +1,6 @@
 *~
-*.pyc
-*.swp
-*.csv
-.DS_Store
+*.pyc.
+*.swp.
+*.csv.
+.DS_Store.
 node_modules/*
